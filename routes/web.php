@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/smarthome', function () {
+    return view('smarthome');
+});
+
