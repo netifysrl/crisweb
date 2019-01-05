@@ -80,7 +80,7 @@
                 </div>
                 <br>
                 <div class="content">
-                   <a href="{{ url('/getting') }}" class="badge badge-pill badge-primary">Getting started -></a>
+                   <a href="{{ url('/getting') }}" class="badge badge-pill badge-primary"></b>  Getting started ... </b></a>
                 </div>
 
             </div>
