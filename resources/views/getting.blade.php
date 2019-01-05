@@ -72,13 +72,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   <b> CCOMING SOON  </b>
+                   <b> COMING SOON  </b>
                 </div>
 
                 <div class="links">
                 </div>
                 <div class="content">
-                   <a href="{{ url('/smarthome') }}" class="badge badge-pill badge-primary">>b> Home</b></a>
+                   <a href="{{ url('/smarthome') }}" class="badge badge-pill badge-primary"><b> Home</b></a>
                 </div>
 
             </div>
