@@ -19,3 +19,7 @@ Route::get('/smarthome', function () {
     return view('smarthome');
 });
 
+Route::get('/getting', function () {
+    return view('getting');
+});
+
