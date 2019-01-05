@@ -85,6 +85,10 @@
                 <div class="links">
                     By Chicco 
                 </div>
+                <div class="links">
+                   <a href="{{/gettings}}" class="badge badge-pill badge-primary">Getting started</a>
+                </div>
+
             </div>
         </div>
     </body>
